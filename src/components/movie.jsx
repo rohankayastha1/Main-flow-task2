@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_KEY = 'ac2356b1';
+const API_KEY = 'XYZ';
 const DEFAULT_SEARCH = 'Batman';
 
 const Movie = () => {
